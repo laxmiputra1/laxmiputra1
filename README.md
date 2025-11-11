@@ -1,5 +1,5 @@
 # 💫 About Me:
-Programming & Querying :  C ,Java ,MySQL. <br>Web Development : Html5 ,Css3 ,JavaScript ,React.<br>    Frameworks & Tools : Hibernate ,JDBC ,Git ,Maven ,IntelliJ.<br>Concepts : OOP,SDLC ,REST API <br><br>
+Programming & Querying :  Java ,MySQL. <br>Web Development : Html5 ,Css3 ,JavaScript ,React.<br>    Frameworks & Tools :Springboot,Hibernate ,JDBC ,Git ,Maven ,IntelliJ.<br>Concepts : OOP,SDLC ,REST API <br><br> 
 
 
 ## 🌐 Socials:
